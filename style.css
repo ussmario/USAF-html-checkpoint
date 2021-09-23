@@ -1,0 +1,13 @@
+nav{
+  background-color: rgb(115, 115, 115);
+}
+.nav-link{
+  color:white;
+}
+.btn-outline-success{
+  color: orange;
+}
+.row{
+  display: flex;
+  justify-content: center;
+}
